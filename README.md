@@ -7,7 +7,7 @@ Taha 097 Statistics Assignment 1.zip
 
 Inside this zip →
 
-Taha 097 Statistics Assignment 1.pdf → assignment instructions
+Taha 097 Statistics Assignment 1.pdf → Handwritten assignment
 
 MATLAB_Tasks folder containing:
 
